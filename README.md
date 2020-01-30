@@ -5,6 +5,6 @@
 
 Pongo is a Pong remake implemented in Lua, using [Love](https://love2d.org/) (the 2D game engine).
 
-Screenshot
+## Screenshot
 
 ![Pongo](screenshot.png)
